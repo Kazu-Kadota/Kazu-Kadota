@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Ton**
 
-- 🌱 I’m currently learning **React with Typescript and Javascript, AWS and NodeJS**
+- 🌱 I’m currently learning **React with Typescript and Javascript, AWS, Terraform and NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kazu-Kadota](https://github.com/Kazu-Kadota)
-
-- 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **kadota.kazuyuki@gmail.com**
 
@@ -16,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kazuyuki-kadota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazuyuki-kadota" height="30" width="40" /></a>
-<a href="https://fb.com/kazuyuki kadota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazuyuki kadota" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kazuyuki kadota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kazuyuki kadota" height="30" width="40" /></a>
 </p>
 
